@@ -10,10 +10,9 @@
 
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
+# :notebook_with_decorative_cover: 
 
-- [About the Project](#star2-about-the-project)
-- [Contact](#handshake-contact)
+
 
 
 ## :star2: About the Project
@@ -21,8 +20,16 @@
 ### :camera: Screenshots
 <div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image1.png" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image2.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image1.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image1.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image3.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image4.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image5.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image6.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image7.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image8.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image9.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image10.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image11.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SamirWagle/JobHunt/blob/main/Screenshots/image12.png" alt='image' width='800'/></a> </div>
 
 
 
