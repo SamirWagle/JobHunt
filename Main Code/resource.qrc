@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>image/address.png</file>
+        <file>image/apjob.png</file>
+        <file>image/appi.png</file>
+        <file>image/apply.png</file>
+        <file>image/back.jpg</file>
+        <file>image/black.jpg</file>
+        <file>image/blur.jpg</file>
+        <file>image/changepass.png</file>
+        <file>image/gmail.png</file>
+        <file>image/Hookmark.png</file>
+        <file>image/Hookmark.qss</file>
+        <file>image/jhunt.jpg</file>
+        <file>image/jobi.png</file>
+        <file>image/Jobs.jpg</file>
+        <file>image/jobsearch.png</file>
+        <file>image/login.jpg</file>
+        <file>image/login.png</file>
+        <file>image/main.jpg</file>
+        <file>image/name.png</file>
+        <file>image/pass.jpg</file>
+        <file>image/password.jpg</file>
+        <file>image/phone.png</file>
+        <file>image/pp.png</file>
+        <file>image/projob.jpg</file>
+        <file>image/re.jpg</file>
+        <file>image/reg.png</file>
+        <file>image/rej.jpg</file>
+        <file>image/s.png</file>
+        <file>image/soft.jpg</file>
+        <file>image/spider.png</file>
+        <file>image/user.png</file>
+        <file>image/vector.jpg</file>
+        <file>image/vpj.png</file>
+        <file>image/vprofile.png</file>
+        <file>image/updateicon.png</file>
+        <file>image/pjj.png</file>
+        <file>image/purp.jpg</file>
+        <file>image/haze.jpg</file>
+        <file>image/jober.png</file>
+        <file>image/p.png</file>
+        <file>image/offer.png</file>
+    </qresource>
+</RCC>
