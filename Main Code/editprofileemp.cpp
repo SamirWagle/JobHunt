@@ -50,10 +50,7 @@ MainWindow conn;
     conn.connopen();
 
     QSqlQuery qry;
-    //qry.prepare("UPDATE employerdetials SET phone='"+pn+"' WHERE id='"+id+"'" );
-    //WHERE id='"++"'");
-   // qry.prepare("UPDATE emplotyerdetials SET address='"+adrs+"' WHERE id='"+id+"'");
-   // qry.prepare("UPDATE employerdetials SET CompName='"+name+"' WHERE id='"+id+"'");
+ 
 
 qry.prepare("UPDATE employerdetials SET CompName='"+name+"',Description='"+desc+"' WHERE username='"+tempid+"'");
 
