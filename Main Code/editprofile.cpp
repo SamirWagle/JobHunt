@@ -46,7 +46,7 @@ void editprofile::on_pushButton_save_clicked()
         qry.prepare("UPDATE jobseekerdetials SET Fname='"+fname+"',Lname='"+lname+"',education='"+education+"',currentcompany='"+current+"' WHERE username='"+tempid+"'");
 
 
-        //
+        
             if(qry.exec())
             {
                 QMessageBox::critical(this,tr("Edit"),tr("FNAME,LNAME,Education and Current Company Updated Successfully"));
