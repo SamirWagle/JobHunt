@@ -18,8 +18,8 @@ bool connopen()
     QDir dir("../login_app2");
     QString path = dir.absolutePath()+"/database.db";
     qDebug()<<(path);
-/*QSqlDatabase*/ mydb=QSqlDatabase::addDatabase("QSQLITE");
-//mydb.setDatabaseName("C:/Users/nisch/Desktop/login_app2/database.db");
+/*QSqlDatabase Connections*/ mydb=QSqlDatabase::addDatabase("QSQLITE");
+//mydb.setDatabaseName("C:/Users/nisch/Desktop/login_app2/database.db");  this code written already
 mydb.setDatabaseName(path);
 if (mydb.open())
 {

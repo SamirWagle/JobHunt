@@ -25,4 +25,4 @@ private:
     Ui::appliedjob *ui;
 };
 
-#endif // APPLIEDJOB_H
+#endif // APPLIEDJOB_H Header

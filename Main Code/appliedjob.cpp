@@ -54,8 +54,6 @@ void appliedjob::on_tableView_activated(const QModelIndex &index)
     conn.connopen();
     QString status,reply;
     QString val=ui->tableView->model()->data(index).toString();
-     //ui->label_test1->setText(val);
-     //ui->label_test2->setText(tempid);
     QSqlQuery qry4;
     qry4.prepare("SELECT * FROM applicants where Applicant='"+tempid+"' AND JobId= '"+val+"'");
     if(qry4.exec()){
