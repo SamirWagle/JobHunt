@@ -22,7 +22,7 @@ vprofileemp::vprofileemp(QWidget *parent) :
     qDebug()<<(tempid);
     if(view.exec()){
         view.first();
-       // ui->label_vpe1->setText(view.value(0).toString());
+      
         ui->label_vpe2->setText(view.value(2).toString());
         ui->label_vpe3->setText(view.value(1).toString());
         ui->label_vpe4->setText(view.value(0).toString());
