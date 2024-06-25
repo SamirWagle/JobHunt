@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src="https://socialify.git.ci/SamirWagle/JobHunt/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="logo" width= height=10 />
+<img src="https://socialify.git.ci/SamirWagle/JobHunt/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="logo" width= height='10' />
 
 <h1>About JobHunt</h1>
 <p>“Job Hunt” is a platform which connects employers with jobseekers. In the current world, employment is a basic necessity. So we came up with this idea of creating a desktop application named Job Hunt. The main objective of this desktop application is to provide a proper platform for employers to post jobs and job seekers to get their desired jobs. It is a simple demonstration with back end on how a job searching platform works. This is my first complete official project. The project proposal, report and presentation are also attached for further references and information</p>
